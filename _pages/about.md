@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinhao Dong is a fourth-year Ph.D. student supervised by Prof. [Dan Hao](https://sites.google.com/view/danhao/) in [Software Engineering Institute](https://www.sei.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).  Currently, he is a visiting scholar in [National University of Singapore (NUS)](https://nus.edu.sg/) under the supervision Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin song Dong](https://www.comp.nus.edu.sg/~dongjs/). He received his B.S degree from [School of Computer Science and Technology](https://cs.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/). 
+Jinhao Dong is a fourth-year Ph.D. student supervised by Prof. [Dan Hao](https://sites.google.com/view/danhao/) in [Software Engineering Institute](https://www.sei.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).  Currently, he is a visiting scholar in [National University of Singapore (NUS)](https://nus.edu.sg/) under the supervision Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). He received his B.S degree from [School of Computer Science and Technology](https://cs.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/). 
 
 His research goal is achieving **automatic and trustworthy software development**. More specifically, *to develop reliable tools to automate development process, with the guarantees of soundness.* His research interests also include code change comprehension, fault localization, and semi-supervised learning.
 
+***<u>Currently, he is in job market and please feel free to contact him.</u>***
+
 # 🔥 News
 
-- *2023.11*:🎉🎉 I started my year-long visit at NUS, supervised by Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin song Dong](https://www.comp.nus.edu.sg/~dongjs/).
+- *2023.11*:🎉🎉 I started my year-long visit at NUS, supervised by Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/).
 - *2023.11*:🎉🎉 I became the PC member of ASE 2024.
 - *2023.07*:🎉🎉One paper is accepted by ASE 2023.
 - *2023.01*:🎉🎉One paper is accepted by ICSE 2023.
@@ -35,10 +37,10 @@ His research goal is achieving **automatic and trustworthy software development*
 
 # 📖 Educations
 
-- *2020.09 - 2025.07 (now)*, *Peking University*, Ph.D. in Computer Science, supervised by Prof. [Dan Hao](https://sites.google.com/view/danhao/) 
-- *2023.11 - 2024.11 (now)*, *National University of Singapore (NUS)*, Visiting Scholar in Computer Science, supervised by Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin song Dong](https://www.comp.nus.edu.sg/~dongjs/)
+- *2020.09 - 2025.07 (now)*, **Peking University**, *Ph.D. in Computer Science*, supervised by Prof. [Dan Hao](https://sites.google.com/view/danhao/) 
+- *2023.11 - 2024.11 (now)*, **National University of Singapore (NUS)**, *Visiting Scholar in Computer Science*, supervised by Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/)
 
-- *2016.-09 - 2020.07*, *Xidian University*, Bachelor in Software Engineering
+- *2016.-09 - 2020.07*, **Xidian University**, *Bachelor in Software Engineering*
 
 # 📝 Publications 
 
