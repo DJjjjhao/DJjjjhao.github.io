@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinhao Dong, Ph.D., is a lecturer in Key Laboratory of Data Engineering and Knowledge Engineering and School of Information, Renmin University of China, and is selected into the Young Talents Program (青年英才) of Renmin University of China. He joins the research group led by Professor [Xiaoyong Du](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm) and Professor [Wei Lu](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/43edc05040f54656aed4869bb7969de0.htm). He is also the technical advisor of **Xiaomi’s LLM Core Team**, primarily responsible for code-related LLM development, including **pretraining, reinforcement learning, and agent**. He took the lead in establishing the RUC–Xiaomi Joint Key Laboratory for Foundation Models and serves on its Technical Committee.
+Jinhao Dong, Ph.D., is a lecturer in Key Laboratory of Data Engineering and Knowledge Engineering and School of Information, Renmin University of China, and is selected into the Young Talents Program (青年英才) of Renmin University of China. He joins the research group led by Professor [Xiaoyong Du](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm) and Professor [Wei Lu](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/43edc05040f54656aed4869bb7969de0.htm). He is also the technical advisor of **Xiaomi’s LLM Core Team**, primarily responsible for code-related LLM development, including **pretraining, reinforcement learning, and agent**. He took the lead in establishing the RUC–Xiaomi Joint Key Laboratory for Foundation Large Language Models and serves on its Technical Committee.
 
 He obtained his Ph.D. from the School of Computer Science, Peking University in 2025, under the supervision of Professor [Dan Hao](https://sites.google.com/view/danhao/), and his Bachelor's degree from School of Computer Science and Technology, Xidian University. He was a visiting scholar in National University of Singapore (NUS) for one year, under the supervision Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/).
 
@@ -59,8 +59,7 @@ He obtained his Ph.D. from the School of Computer Science, Peking University in 
   Contributor
 
 
-- [Technical Report] **MiMo: Unlocking the Reasoning Potential of
-Language Model – From Pretraining to Posttraining**
+- [Technical Report] **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining**
 <a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/XiaomiMiMo/MiMo'><i class="fab fa-github"></i>[GitHub]</a>
   
@@ -70,7 +69,13 @@ Language Model – From Pretraining to Posttraining**
 <a href='pdfs/issta25_contest.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/DJjjjhao/replication_package'><i class="fab fa-github"></i>[GitHub]</a>
   
-  **Jinhao Dong**, Jun Sun, Wenjie Zhang, Jin Song Dong, and Dan Hao
+  **Jinhao Dong**, Jun Sun, Yun Lin, Yedi Zhang, Murong Ma, Jin Song Dong, and Dan Hao
+
+- [ASE'24] **Revisiting the Conflict-Resolving Problem from a Semantic Perspective**
+<a href='pdfs/ase24_formal_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://github.com/DJjjjhao/ase24-merge'><i class="fab fa-github"></i>[GitHub]</a>
+  
+  **Jinhao Dong**, Qihao Zhu, Zeyu Sun, Yiling Lou, and Dan Hao
 
 - [ASE'23] **Merge Conflict Resolution: Classification or Generation?**
 <a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
@@ -148,6 +153,8 @@ Language Model – From Pretraining to Posttraining**
 # 💻 Services
 **Program Committee Member**
 
+- *2026*: ICSE Research Track
+- *2025*: ASE Research Track
 - *2024*: ASE Research Track
 
 - *2024*: NeurIPS Main Conference
