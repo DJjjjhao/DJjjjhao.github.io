@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinhao Dong's Homepage | 董谨豪"
-description              : "Countless possibilities await to be realized. \n Email:dongjinhao at stu dot pku dot edu dot cn"
+description              : "Lecturer, Young Talents Program (青年英才)\n Email:dongjinhao at ruc dot edu dot cn"
 repository               : "DJjjjhao/DJjjjhao.github.io"
 
 google_scholar_stats_use_cdn : true
@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jinhao Dong"
   avatar           : "images/photo.jpg"
-  bio              : "Peking University"
+  bio              : "Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rhlk1_UAAAAJ"
-  email            : "dongjinhao@stu.pku.edu.cn"
+  email            : "dongjinhao@ruc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
