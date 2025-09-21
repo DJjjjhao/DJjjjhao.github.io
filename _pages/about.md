@@ -160,5 +160,5 @@ Language Model – From Pretraining to Posttraining**
 
 # 🥊Hobbies
 
-- Sanda and Mantis Boxing
--  Hiking
+- Sanda (Chinese kickboxing) and Mantis Boxing
+- Hiking and camping
