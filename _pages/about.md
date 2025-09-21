@@ -69,13 +69,13 @@ He obtained his Ph.D. from the School of Computer Science, Peking University in 
 <a href='pdfs/issta25_contest.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/DJjjjhao/replication_package'><i class="fab fa-github"></i>[GitHub]</a>
   
-  **Jinhao Dong**, Jun Sun, Yun Lin, Yedi Zhang, Murong Ma, Jin Song Dong, and Dan Hao
+  **Jinhao Dong**, Jun Sun, Wenjie Zhang, Jin Song Dong, and Dan Hao
 
 - [ASE'24] **Revisiting the Conflict-Resolving Problem from a Semantic Perspective**
 <a href='pdfs/ase24_formal_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/DJjjjhao/ase24-merge'><i class="fab fa-github"></i>[GitHub]</a>
   
-  **Jinhao Dong**, Qihao Zhu, Zeyu Sun, Yiling Lou, and Dan Hao
+  **Jinhao Dong**, Jun Sun, Yun Lin, Yedi Zhang, Murong Ma, Jin Song Dong, and Dan Hao
 
 - [ASE'23] **Merge Conflict Resolution: Classification or Generation?**
 <a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
