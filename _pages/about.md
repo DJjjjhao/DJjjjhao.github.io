@@ -25,7 +25,7 @@ He obtained his Ph.D. from the School of Computer Science, Peking University in 
 
 ***<u>If you’re interested in our research group or in pursuing an internship at Xiaomi, feel free to email me.</u>***
 
-# 🔥 News
+<!-- # 🔥 News
 - *2023.11*:🎉🎉 I started my year-long visit at NUS, supervised by Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/).
 - *2023.11*:🎉🎉 I became the PC member of ASE 2024.
 - *2023.07*:🎉🎉One paper is accepted by ASE 2023.
@@ -34,7 +34,7 @@ He obtained his Ph.D. from the School of Computer Science, Peking University in 
 - *2021.05*:🎉🎉One papers is accepted by FSE 2021.
 - *2020.07*:🎉🎉One paper is accepted by ASE 2020 NIER track.
 - *2020.07*:🎉🎉One paper is accepted by ISSRE 2020.
-- *2019.09*:🎉🎉One paper is accepted by NeurIPS 2019.
+- *2019.09*:🎉🎉One paper is accepted by NeurIPS 2019. -->
 
 # 📖 Educations
 
