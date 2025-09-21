@@ -63,7 +63,7 @@ He obtained his Ph.D. from the School of Computer Science, Peking University in 
 <a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/XiaomiMiMo/MiMo'><i class="fab fa-github"></i>[GitHub]</a>
   
-  Core contributor, responsible for code pre-training and reinforcement learning. Process the code pre-training and post-training data, and propose a test-difficulty–driven code reward to mitigate the sparse-reward problem in code reinforcement learning.
+  **Core contributor, responsible for code pre-training and reinforcement learning.** Process the code pre-training and post-training data, and propose a test-difficulty–driven code reward to mitigate the sparse-reward problem in code reinforcement learning.
 
 - [ISSTA'25] **ConTested: Consistency-Aided Tested Code Generation with LLM**
 <a href='pdfs/issta25_contest.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
