@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinhao Dong is a fourth-year Ph.D. student supervised by Prof. [Dan Hao](https://sites.google.com/view/danhao/) in [Software Engineering Institute](https://www.sei.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).  Currently, he is a visiting scholar in [National University of Singapore (NUS)](https://nus.edu.sg/) under the supervision Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). He received his B.S degree from [School of Computer Science and Technology](https://cs.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/). 
+Jinhao Dong, Ph.D., is a lecturer in Key Laboratory of Data Engineering and Knowledge Engineering and School of Information, Renmin University of China, and is selected into the Young Talents Program (青年英才) of Renmin University of China. He joins the research group led by Professor [Xiaoyong Du](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm) and Professor [Wei Lu](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/43edc05040f54656aed4869bb7969de0.htm). He is also the technical advisor of Xiaomi’s LLM Core Team, primarily responsible for code-related LLM development, including **pretraining, reinforcement learning, and agent**. He took the lead in establishing the RUC–Xiaomi Joint Key Laboratory for Foundation Models and serves on its Technical Committee.
 
-His research goal is achieving **automatic and trustworthy software development**. More specifically, *to develop reliable tools to automate development process, with the guarantees of soundness.* His research interests also include code change comprehension, fault localization, and semi-supervised learning.
+He obtained his Ph.D. from the School of Computer Science, Peking University in 2025, under the supervision of Professor [Dan Hao](https://sites.google.com/view/danhao/), and his Bachelor's degree from School of Computer Science and Technology, Xidian University. He was a visiting scholar in National University of Singapore (NUS) for one year, under the supervision Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/).
 
-***<u>Currently, he is in job market and please feel free to contact him.</u>***
+<!-- His research goal is achieving **automatic and trustworthy software development**. More specifically, *to develop reliable tools to automate development process, with the guarantees of soundness.* His research interests also include code change comprehension, fault localization, and semi-supervised learning. -->
+
+***<u>If you’re interested in our research group or in pursuing an internship at Xiaomi, feel free to email me.</u>***
 
 # 🔥 News
-
 - *2023.11*:🎉🎉 I started my year-long visit at NUS, supervised by Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/).
 - *2023.11*:🎉🎉 I became the PC member of ASE 2024.
 - *2023.07*:🎉🎉One paper is accepted by ASE 2023.
@@ -37,12 +38,39 @@ His research goal is achieving **automatic and trustworthy software development*
 
 # 📖 Educations
 
-- *2020.09 - 2025.07 (now)*, **Peking University**, *Ph.D. in Computer Science*, supervised by Prof. [Dan Hao](https://sites.google.com/view/danhao/) 
-- *2023.11 - 2024.11 (now)*, **National University of Singapore (NUS)**, *Visiting Scholar in Computer Science*, supervised by Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/)
+- *2020.09 - 2025.07*, **Peking University**, *Ph.D. in Computer Science*, supervised by Prof. [Dan Hao](https://sites.google.com/view/danhao/) 
+- *2023.11 - 2024.11*, **National University of Singapore (NUS)**, *Visiting Scholar in Computer Science*, supervised by Prof. [Jun Sun](https://sunjun.site/), Prof. [Yun Lin](http://linyun.info/), and Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/)
 
 - *2016.-09 - 2020.07*, **Xidian University**, *Bachelor in Software Engineering*
 
 # 📝 Publications 
+
+
+- [Technical Report] **MiMo-Audio: Audio Language Models are Few-Shot Learners**
+<a href='pdfs/mimo-audio.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://github.com/XiaomiMiMo/MiMo-Audio'><i class="fab fa-github"></i>[GitHub]</a>
+  
+  Contributor
+
+- [Technical Report] **MiMo-VL Technical Report**
+<a href='pdfs/mimo-vl.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://github.com/XiaomiMiMo/MiMo-VL'><i class="fab fa-github"></i>[GitHub]</a>
+  
+  Contributor
+
+
+- [Technical Report] **MiMo: Unlocking the Reasoning Potential of
+Language Model – From Pretraining to Posttraining**
+<a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://github.com/XiaomiMiMo/MiMo'><i class="fab fa-github"></i>[GitHub]</a>
+  
+  Core contributor
+
+- [ISSTA'25] **ConTested: Consistency-Aided Tested Code Generation with LLM**
+<a href='pdfs/issta25_contest.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://github.com/DJjjjhao/replication_package'><i class="fab fa-github"></i>[GitHub]</a>
+  
+  **Jinhao Dong**, Jun Sun, Wenjie Zhang, Jin Song Dong, and Dan Hao
 
 - [ASE'23] **Merge Conflict Resolution: Classification or Generation?**
 <a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
