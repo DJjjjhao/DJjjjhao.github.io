@@ -15,6 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<div style="text-align:right;margin-bottom:1em;">
+  <a href="{{ '/zh/' | relative_url }}" style="display:inline-block;padding:6px 14px;border:1px solid #999;border-radius:20px;font-size:0.9em;text-decoration:none;">🌐 中文版</a>
+</div>
+
 <span class='anchor' id='about-me'></span>
 
 Jinhao Dong, Ph.D., is a lecturer in the Key Laboratory of Data Engineering and Knowledge Engineering (MOE) and the School of Information, Renmin University of China (RUC), and is selected into the **Wu Yuzhang Young Talents Program (吴玉章青年英才)** of RUC. He joins the research group led by Professor [Xiaoyong Du](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm) and Professor [Wei Lu](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/43edc05040f54656aed4869bb7969de0.htm). He is also the technical advisor of **Xiaomi's LLM Core Team**, and a **core contributor to the MiMo series of foundation models** — he is primarily responsible for code-related LLM development, including **pretraining, reinforcement learning, Code Agent, browser agent, and the OpenClaw general agent platform**. The **MiMo-V2-Pro** model that he core-contributed ranks **#8 globally and #2 in China on the Artificial Analysis Intelligence Index**, and has been the **#1 model by call volume on OpenRouter**. He took the lead in establishing the **RUC–Xiaomi Joint Key Laboratory for Foundation Large Language Models** (the first joint key laboratory under RUC's new policy) and serves on its Technical Committee.
