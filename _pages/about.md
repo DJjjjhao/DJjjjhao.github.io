@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div style="text-align:right;margin-bottom:1em;">
-  <a href="{{ '/zh/' | relative_url }}" style="display:inline-block;padding:6px 14px;border:1px solid #999;border-radius:20px;font-size:0.9em;text-decoration:none;">🌐 中文版</a>
+  <a href="{{ '/zh.html' | relative_url }}" style="display:inline-block;padding:6px 14px;border:1px solid #999;border-radius:20px;font-size:0.9em;text-decoration:none;">🌐 中文版</a>
 </div>
 
 <span class='anchor' id='about-me'></span>
