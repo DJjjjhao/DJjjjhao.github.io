@@ -100,19 +100,19 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 
 - [ISSTA'25] **ConTested: Consistency-Aided Tested Code Generation with LLM**
 <a href='pdfs/issta25_contest.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
-<a href='https://github.com/DJjjjhao/replication_package'><i class="fab fa-github"></i>[GitHub]</a>
+<a href='https://github.com/dongjinhao-ruc/replication_package'><i class="fab fa-github"></i>[GitHub]</a>
   
   **Jinhao Dong**, Jun Sun, Wenjie Zhang, Jin Song Dong, and Dan Hao
 
 - [ASE'24] **Revisiting the Conflict-Resolving Problem from a Semantic Perspective**
 <a href='pdfs/ase24_formal_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
-<a href='https://github.com/DJjjjhao/ase24-merge'><i class="fab fa-github"></i>[GitHub]</a>
+<a href='https://github.com/dongjinhao-ruc/ase24-merge'><i class="fab fa-github"></i>[GitHub]</a>
   
   **Jinhao Dong**, Jun Sun, Yun Lin, Yedi Zhang, Murong Ma, Jin Song Dong, and Dan Hao
 
 - [ASE'23] **Merge Conflict Resolution: Classification or Generation?**
 <a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
-<a href='https://github.com/DJjjjhao/ase-merge'><i class="fab fa-github"></i>[GitHub]</a>
+<a href='https://github.com/dongjinhao-ruc/ase-merge'><i class="fab fa-github"></i>[GitHub]</a>
   
   **Jinhao Dong**, Qihao Zhu, Zeyu Sun, Yiling Lou, and Dan Hao
 
@@ -124,7 +124,7 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 
 - [ICSE'22]  **FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation**
 <a href='pdfs/icse22_fira.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
-<a href='https://github.com/DJjjjhao/FIRA-ICSE'><i class="fab fa-github"></i>[GitHub]</a>
+<a href='https://github.com/dongjinhao-ruc/FIRA-ICSE'><i class="fab fa-github"></i>[GitHub]</a>
 
   **Jinhao Dong**, Yiling Lou, Qihao Zhu, Zeyu Sun, Zhilin Li, Wenjie Zhang, and Dan Hao
 
@@ -160,7 +160,7 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 
 - [NeurIPS'19] **MarginGAN: Adversarial Training in Semi-Supervised Learning**
 <a href='pdfs/nips19_margingan.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
-<a href='https://github.com/DJjjjhao/MarginGAN'><i class="fab fa-github"></i>[GitHub]</a>
+<a href='https://github.com/dongjinhao-ruc/MarginGAN'><i class="fab fa-github"></i>[GitHub]</a>
 
   **Jinhao Dong**, Tong Lin
 
