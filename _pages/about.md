@@ -178,9 +178,6 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 - *2018.10*: International Collegiate Programming Contest (ICPC), Bronze Medal
 - *2018.04*: Mathematical Contest in Modeling (MCM), Meritorious Winner
 
-# 💬 Invited Talks
-- *2023.12*: Excellent Doctor Symposium of CCF ChinaSoft, Shanghai, China
-
 # 💻 Services
 **Program Committee Member**
 

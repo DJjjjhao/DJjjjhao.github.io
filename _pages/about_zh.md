@@ -154,10 +154,6 @@ author_profile: true
 - *2024*：Formal Aspects of Computing (FAC)
 - *2024*：Science China Information Sciences (SCIS)
 
-# 💬 学术报告
-
-- *2023.12*：CCF ChinaSoft 优秀博士生论坛，上海
-
 # 🥊 兴趣爱好
 
 - 散打（中国式踢拳）与螳螂拳
