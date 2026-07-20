@@ -207,7 +207,7 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 Meet **11 (Eleven)**, my American Shorthair kitty. He got his name because I brought him home in **November**, and because I'm a big fan of *Stranger Things* — Eleven is the show's female lead.
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start; margin-top: 12px; margin-bottom: 60px;">
-  <img src="images/cat_11.jpg" alt="11 the cat" style="width: 320px; height: 240px; object-fit: cover; border-radius: 8px;">
+  <img src="images/cat_11.jpg" alt="11 the cat" style="width: 320px; height: 240px; object-fit: cover; object-position: top; border-radius: 8px;">
   <video src="images/cat_11.mp4" controls muted loop playsinline style="width: 320px; height: 240px; object-fit: cover; border-radius: 8px; background: #000;"></video>
 </div>
 

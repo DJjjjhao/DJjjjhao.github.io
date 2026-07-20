@@ -169,7 +169,7 @@ author_profile: true
 这是我的美短小猫 **11 (Eleven)**。之所以叫 11，是因为他是 **11 月**带回家的，也因为我很喜欢《怪奇物语》——Eleven 是剧里的女主角。
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start; margin-top: 12px; margin-bottom: 60px;">
-  <img src="images/cat_11.jpg" alt="小猫 11" style="width: 320px; height: 240px; object-fit: cover; border-radius: 8px;">
+  <img src="images/cat_11.jpg" alt="小猫 11" style="width: 320px; height: 240px; object-fit: cover; object-position: top; border-radius: 8px;">
   <video src="images/cat_11.mp4" controls muted loop playsinline style="width: 320px; height: 240px; object-fit: cover; border-radius: 8px; background: #000;"></video>
 </div>
 
