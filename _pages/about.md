@@ -195,7 +195,7 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 
 # 🥊 Hobbies
 
-- Sanda (Chinese Kickboxing) and Mantis Boxing
+- Sanda (Chinese Kickboxing)
 - Breaking (Breakdance)
 - Hiking and Camping
 
