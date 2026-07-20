@@ -196,19 +196,17 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 - *2024*: Formal Aspects of Computing (FAC)
 - *2024*: Science China Information Sciences (SCIS)
 
-# 🐱 My Cat
-
-Meet **11 (Eleven)**, my American Shorthair kitty. He got his name because I brought him home in **November**, and because I'm a big fan of *Stranger Things* — Eleven is the show's female lead.
-
-这是我的美短小猫 **11 (Eleven)**。之所以叫 11，是因为他是 **11 月**带回家的，也因为我很喜欢《怪奇物语》——Eleven 是剧里的女主角。
-
-<div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start; margin-top: 12px;">
-  <img src="images/cat_11.jpg" alt="11 the cat" style="max-width: 320px; width: 100%; border-radius: 8px;">
-  <video src="images/cat_11.mp4" controls muted loop playsinline style="max-width: 320px; width: 100%; border-radius: 8px;"></video>
-</div>
-
 # 🥊 Hobbies
 
 - Sanda (Chinese Kickboxing) and Mantis Boxing
 - Breaking (Breakdance)
 - Hiking and Camping
+
+# 🐱 My Cat
+
+Meet **11 (Eleven)**, my American Shorthair kitty. He got his name because I brought him home in **November**, and because I'm a big fan of *Stranger Things* — Eleven is the show's female lead.
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start; margin-top: 12px;">
+  <img src="images/cat_11.jpg" alt="11 the cat" style="width: 320px; height: 240px; object-fit: cover; border-radius: 8px;">
+  <video src="images/cat_11.mp4" controls muted loop playsinline style="width: 320px; height: 240px; object-fit: cover; border-radius: 8px; background: #000;"></video>
+</div>
