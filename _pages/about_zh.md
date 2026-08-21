@@ -73,6 +73,14 @@ author_profile: true
 
   Xiaoyang Li, **Jinhao Dong**\*, Wenhang Shi, Wei Lu, Xiaoyong Du
 
+- [EMNLP'26 Findings] **GraP-Mem: Granularity-Aware Planning for Adaptive Memory Access in Long-Horizon LLM Agents**
+
+  Qinyang Zeng, **Jinhao Dong**\*, Wei Lu, Xiaoyong Du
+
+- [EMNLP'26 Findings] **PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems**
+
+  Hanglong Lv, Dawei Zhu, Lei Li, Bowen Ye, Huaqiu Liu, Yifan Song, Bofei Gao, Weimin Xiong, **Jinhao Dong**, Chenhong He, Lingpeng Kong, Qi Liu, Tong Yang, Fuli Luo
+
 - [ISSTA'25] **ConTested: Consistency-Aided Tested Code Generation with LLM** <a href='pdfs/issta25_contest.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a> <a href='https://github.com/dongjinhao-ruc/replication_package'><i class="fab fa-github"></i>[GitHub]</a>
 
   **Jinhao Dong**, Jun Sun, Wenjie Zhang, Jin Song Dong, and Dan Hao
